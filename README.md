@@ -1,9 +1,10 @@
 # Sistem Informasi Studio Foto
 
-Project Tugas Akhir Pemrograman
+## Deskripsi
+Sistem Informasi Studio Foto adalah aplikasi berbasis Java yang digunakan untuk membantu pengelolaan studio foto, mulai dari data pelanggan, paket foto, booking foto, hingga pembuatan laporan.
 
 ## Fitur
-- Login
+- Login Admin
 - Data Pelanggan
 - Data Paket Foto
 - Booking Foto
@@ -11,6 +12,12 @@ Project Tugas Akhir Pemrograman
 
 ## Teknologi
 - Java
-- NetBeans
+- NetBeans IDE
 - Git
 - GitHub
+
+## Pengembang
+Nama : Sahlani  
+NIM : 231011401375  
+Program Studi : S1 Teknik Informatika  
+Universitas Pamulang
